@@ -9,3 +9,8 @@
 body{background-color:rgb(240, 125, 133);
 font-family:cursive;
 }
+
+p{color:white; background-color:rgb(145, 217, 255);}
+ul{color:white; background-color:rgb(145, 217, 255);}
+a{text-decoration:none;
+background-color:rgb(145, 217, 255);}
